@@ -100,38 +100,67 @@ Need help? Send us your measurements and we'll recommend the perfect size!
 
 ## 🏭 覆盖行业
 
-| 行业 | 话术数量 | 链接 |
-|-----|:-------:|:---:|
-| 👗 服装行业 | 15条 | [查看](industries/fashion.md) |
-| 📱 电子产品 | 15条 | [查看](industries/electronics.md) |
-| 💄 美妆护肤 | 15条 | [查看](industries/beauty.md) |
-| 🏠 家居用品 | 15条 | [查看](industries/home.md) |
-| 🏕️ 户外运动 | 15条 | [查看](industries/outdoor.md) |
-| 👚 女装 | 30条 | [查看](industries/womens-clothing.md) |
-| 👔 男装 | 30条 | [查看](industries/mens-clothing.md) |
-| 👶 童装 | 30条 | [查看](industries/kids-clothing.md) |
-| 👙 内衣 | 30条 | [查看](industries/underwear.md) |
-| 🏃 运动服 | 30条 | [查看](industries/sportswear.md) |
-| 👗 大码女装 | 30条 | [查看](industries/plus-size.md) |
-| 👠 女鞋 | 30条 | [查看](industries/womens-shoes.md) |
-| 👞 男鞋 | 30条 | [查看](industries/mens-shoes.md) |
-| 👟 童鞋 | 30条 | [查看](industries/kids-shoes.md) |
-| 👜 箱包 | 30条 | [查看](industries/bags.md) |
-| 🧳 皮具 | 30条 | [查看](industries/leather.md) |
-| 👘 汉服 | 30条 | [查看](industries/traditional-clothing.md) |
-| 🥼 工装制服 | 30条 | [查看](industries/workwear.md) |
-| 🧴 护肤品 | 30条 | [查看](industries/skincare.md) |
-| 💄 彩妆 | 30条 | [查看](industries/makeup.md) |
-| 🌸 香水 | 30条 | [查看](industries/perfume.md) |
-| 🔧 美容仪器 | 30条 | [查看](industries/beauty-devices.md) |
-| 🧔 男士护理 | 30条 | [查看](industries/mens-grooming.md) |
-| 💅 美甲美睫 | 30条 | [查看](industries/nail-lash.md) |
-| 🍼 奶粉辅食 | 30条 | [查看](industries/baby-food.md) |
-| 👶 纸尿裤 | 30条 | [查看](industries/diapers.md) |
-| 👕 童装童鞋 | 30条 | [查看](industries/baby-clothing.md) |
-| 🧸 玩具 | 30条 | [查看](industries/toys.md) |
-| 🤰 孕产用品 | 30条 | [查看](industries/maternity.md) |
-| 🍼 婴儿用品 | 30条 | [查看](industries/baby-products.md) |
+<table>
+<tr>
+<td>
+
+**👗 服饰鞋包**
+| 行业 | 数量 | 链接 |
+|-----|:---:|:---:|
+| 服装行业 | 15 | [查看](industries/fashion.md) |
+| 女装 | 30 | [查看](industries/womens-clothing.md) |
+| 男装 | 30 | [查看](industries/mens-clothing.md) |
+| 童装 | 30 | [查看](industries/kids-clothing.md) |
+| 内衣 | 30 | [查看](industries/underwear.md) |
+| 运动服 | 30 | [查看](industries/sportswear.md) |
+| 大码女装 | 30 | [查看](industries/plus-size.md) |
+| 女鞋 | 30 | [查看](industries/womens-shoes.md) |
+| 男鞋 | 30 | [查看](industries/mens-shoes.md) |
+| 童鞋 | 30 | [查看](industries/kids-shoes.md) |
+| 箱包 | 30 | [查看](industries/bags.md) |
+| 皮具 | 30 | [查看](industries/leather.md) |
+| 汉服 | 30 | [查看](industries/traditional-clothing.md) |
+| 工装制服 | 30 | [查看](industries/workwear.md) |
+
+</td>
+<td>
+
+**💄 美妆护肤**
+| 行业 | 数量 | 链接 |
+|-----|:---:|:---:|
+| 美妆护肤 | 15 | [查看](industries/beauty.md) |
+| 护肤品 | 30 | [查看](industries/skincare.md) |
+| 彩妆 | 30 | [查看](industries/makeup.md) |
+| 香水 | 30 | [查看](industries/perfume.md) |
+| 美容仪器 | 30 | [查看](industries/beauty-devices.md) |
+| 男士护理 | 30 | [查看](industries/mens-grooming.md) |
+| 美甲美睫 | 30 | [查看](industries/nail-lash.md) |
+
+**👶 母婴用品**
+| 行业 | 数量 | 链接 |
+|-----|:---:|:---:|
+| 奶粉辅食 | 30 | [查看](industries/baby-food.md) |
+| 纸尿裤 | 30 | [查看](industries/diapers.md) |
+| 童装童鞋 | 30 | [查看](industries/baby-clothing.md) |
+| 玩具 | 30 | [查看](industries/toys.md) |
+| 孕产用品 | 30 | [查看](industries/maternity.md) |
+| 婴儿用品 | 30 | [查看](industries/baby-products.md) |
+
+</td>
+<td>
+
+**🏠 家居数码**
+| 行业 | 数量 | 链接 |
+|-----|:---:|:---:|
+| 电子产品 | 15 | [查看](industries/electronics.md) |
+| 家居用品 | 15 | [查看](industries/home.md) |
+| 户外运动 | 15 | [查看](industries/outdoor.md) |
+
+*更多行业持续更新中...*
+
+</td>
+</tr>
+</table>
 
 ## 🤝 贡献指南
 
