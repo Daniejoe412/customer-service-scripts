@@ -13,6 +13,7 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+.kiro/
 *.sublime-project
 *.sublime-workspace
 
